@@ -1,4 +1,4 @@
-CLI Tool to Visualize your Local Git contributions with Go
+**CLI Tool to Visualize your Local Git contributions with Go**
 
 Run go install and
 
