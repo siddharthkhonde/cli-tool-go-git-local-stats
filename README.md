@@ -1,3 +1,5 @@
+CLI Tool to Visualize your Local Git contributions with Go
+
 Run go install and
 
 1. cli-tool-go-git-local-stats -add /path/to/folder will scan that folder and its subdirectories for repositories to scan
